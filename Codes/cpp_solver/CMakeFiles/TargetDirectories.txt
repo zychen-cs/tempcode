@@ -1,0 +1,3 @@
+/home/czy/桌面/magx-main1/Codes/cpp_solver/CMakeFiles/cppsolver.dir
+/home/czy/桌面/magx-main1/Codes/cpp_solver/CMakeFiles/edit_cache.dir
+/home/czy/桌面/magx-main1/Codes/cpp_solver/CMakeFiles/rebuild_cache.dir
